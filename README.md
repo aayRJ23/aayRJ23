@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayrj23&label=Profile%20views&color=0e75b6&style=flat" alt="aayrj23" /> </p>
 
-<p align="left"> <a href="https://twitter.com/demo" target="blank"><img src="https://img.shields.io/twitter/follow/demo?logo=twitter&style=for-the-badge" alt="demo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aayraj23" target="blank"><img src="https://img.shields.io/twitter/follow/demo?logo=twitter&style=for-the-badge" alt="demo" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack based projects**
 
