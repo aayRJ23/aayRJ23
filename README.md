@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Raj</h1>
-<h3 align="center">A passionate Full Stack Web Developer and a Competitive Programmer from India</h3>
+<h2 align="center">A passionate Full Stack Web Developer and a Competitive Programmer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayrj23&label=Profile%20views&color=0e75b6&style=flat" alt="aayrj23" /> </p>
