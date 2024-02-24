@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/aayush.9082.vd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aayush.9082.vd/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/iam_aayush23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iam_aayush23/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aayush_raj23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aayush_raj23/" height="30" width="40" /></a>
+<a href="https://fb.com/aayush.9082.vd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aayush.9082.vd/" height="30" width="40" /></a>
+<a href="https://instagram.com/iam_aayush23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iam_aayush23/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aayush_raj23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aayush_raj23/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
