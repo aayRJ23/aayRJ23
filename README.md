@@ -1,4 +1,4 @@
-<b><h1 align="center">Hi 👋, I'm Aayush Raj</h1></b>
+<h1 align="center">Hi 👋, I'm Aayush Raj</h1>
 <h2 align="center">A passionate Full Stack Web Developer and a Competitive Programmer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
