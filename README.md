@@ -108,13 +108,19 @@
   </a>
 </p>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <div style="display: flex; justify-content: center; width: 100%; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayrj23&show_icons=true&locale=en&layout=compact&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 40%; margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=aayrj23&show_icons=true&locale=en&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 40%;" />
+<div align="center">
+  <div style="display: flex; justify-content: center; width: 80%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayrj23&show_icons=true&locale=en&layout=compact&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 50%; margin-right: 5px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aayrj23&show_icons=true&locale=en&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 50%;" />
   </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayrj23&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 85%;" />
+  <div style="width: 80%; margin-top: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayrj23&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 100%;" />
+  </div>
 </div>
+
+
+
+
 
 
 
