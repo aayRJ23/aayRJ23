@@ -109,17 +109,16 @@
 </p>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; width: 80%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayrj23&show_icons=true&locale=en&layout=compact&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 50%; margin-right: 5px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=aayrj23&show_icons=true&locale=en&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 50%;" />
-  </div>
-  <div style="width: 80%; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayrj23&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 100%;" />
+  <div style="width: 80%;">
+    <div style="display: flex; justify-content: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayrj23&show_icons=true&locale=en&layout=compact&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 44%; margin-right: 5px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aayrj23&show_icons=true&locale=en&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 45%;" />
+    </div>
+    <div style="margin-top: 20px; display: flex; justify-content: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayrj23&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 90%;" />
+    </div>
   </div>
 </div>
-
-
-
 
 
 
