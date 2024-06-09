@@ -109,7 +109,7 @@
 </p>
 
 <div align="center">
-  <div style="width: 80%;">
+  <div style="width: 100%;">
     <div style="display: flex; justify-content: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayrj23&show_icons=true&locale=en&layout=compact&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 44%; margin-right: 5px;" />
       <img src="https://github-readme-stats.vercel.app/api?username=aayrj23&show_icons=true&locale=en&theme=radical" alt="aayrj23" style="animation: fadeIn 1.5s ease-in; width: 45%;" />
