@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on **MERN Stack based projects**
 
-- 🌱 I’m currently learning **Machine Learning & Cryptography**
+- 🌱 I’m currently learning **Machine Learning & Visual Cryptography**
 
-- 👯 I’m looking to collaborate on **Any Full-Stack Web Project**
+- 👯 I’m looking to collaborate on **Any Full-Stack MERN-based Web Project**
 
 - 💬 Ask me about **Data Structure & Algorithm | MERN Stack Development**
 
