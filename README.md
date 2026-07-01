@@ -18,9 +18,9 @@
 
 <img align="right" alt="Coder" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-🎓 &nbsp;**B.Tech IT** — UIT, Burdwan University *(2021–2025)*
+🎓 &nbsp;**M.Tech CSE** — IIT Guwahati *(2026–Present)*
 
-💼 &nbsp;Interned @ **Ardent Computech** — *Job Dekho* (MERN)
+🎓 &nbsp;**B.Tech IT** — UIT , Bardhaman (West Bengal) *(2021–2025)*
 
 🧩 &nbsp;**600+ DSA** problems on LeetCode & GFG
 
