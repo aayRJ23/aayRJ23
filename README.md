@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:061a40,50:0e4d92,80:1a6abf,100:00e5ff&height=280&section=header&text=Aayush%20Raj&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Dev%20·%20MERN%20·%20ML%20·%20Competitive%20Programmer&descAlignY=62&descSize=18&descColor=7dd3fc" />
+<img src="https://raw.githubusercontent.com/aayRJ23/aayRJ23/main/picture.jpg" width="1000" alt="Aayush Raj" />
 
 </div>
 
@@ -17,6 +17,10 @@
 ## 🧑‍💻 About Me
 
 <img align="right" alt="Coder" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
+📧 &nbsp;**aayush.r@iitg.ac.in**
+
+📧 &nbsp;**rajaayush248@gmail.com**
 
 🎓 &nbsp;**M.Tech CSE** — IIT Guwahati *(2026–Present)*
 
