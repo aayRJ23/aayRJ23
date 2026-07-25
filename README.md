@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aayRJ23/aayRJ23/main/picture.jpg" width="1000" alt="Aayush Raj" />
+<img src="https://raw.githubusercontent.com/aayRJ23/aayRJ23/main/picture_iitg.jpg" width="1000" alt="Aayush Raj" />
 
 </div>
 
